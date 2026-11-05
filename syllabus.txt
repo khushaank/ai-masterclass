@@ -1,0 +1,46 @@
+KHUSHAANK COURSES
+THE PRACTICAL AI MASTERCLASS
+
+Less busywork. More possibility. That’s AI.
+
+A beginner-friendly path to using AI for real work, better ideas, and more clarity.
+
+01 — SPEAK AI’S LANGUAGE
+AI foundations, limitations, clear tasks, context, examples, output formats, and prompt iteration.
+Practice: turn a vague request into a reusable prompt.
+
+02 — GO BEYOND THE CHAT BOX
+ChatGPT for everyday tasks, available file and research tools, comparing free and paid plans including Pro.
+Practice: build a repeatable workflow for a real task.
+
+03 — FIND YOUR GO-TO ASSISTANT
+Explore ChatGPT, Claude, Gemini, Grok, and Perplexity. Compare output, verify sources, and choose tools thoughtfully.
+Practice: create your personal assistant comparison.
+
+04 — LESS REPETITIVE. MORE CREATIVE.
+Emails, content ideas, note summaries, project plans, reviewing results, and keeping your voice.
+Practice: turn one recurring task into a useful AI routine.
+
+05 — YOUR LAPTOP. YOUR AI LAB.
+Ollama installation, hardware checks, model selection, local conversations, downloads, and performance trade-offs.
+Practice: run a suitable local model on your laptop.
+
+06 — STAY CURIOUS. STAY IN CONTROL.
+Data settings, sensitive information, redaction, fact-checking, trusted software, and local AI privacy considerations.
+Practice: build a personal AI privacy checklist.
+
+07 — MAKE SOMETHING THAT MATTERS.
+Define a project, select an assistant, refine prompts, check results, and document a reusable workflow.
+Practice: finish your own end-to-end AI project.
+
+WHO IT’S FOR
+Working professionals, creators, entrepreneurs, students, and curious beginners.
+No coding knowledge is needed to start. The local AI module introduces simple terminal commands.
+
+ENROLLMENT
+Course price: ₹4,999 only (discounted from ₹15,000). Save ₹10,001.
+Enrollment is not open yet. Dates, delivery format, access period, and enrollment terms are to be announced before registration opens.
+Third-party subscriptions are separate. Tool availability and features can change.
+Local model compatibility and performance depend on your device and chosen model.
+
+Independent education by Khushaank Courses. Not affiliated with the AI tools mentioned.
